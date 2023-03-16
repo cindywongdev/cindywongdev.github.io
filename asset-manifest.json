@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cindywongdev.github.io/cindywongdev.github.io/static/css/main.eeedd469.css",
+    "main.js": "/cindywongdev.github.io/cindywongdev.github.io/static/js/main.9da356ba.js",
+    "static/js/787.cda612ba.chunk.js": "/cindywongdev.github.io/cindywongdev.github.io/static/js/787.cda612ba.chunk.js",
+    "index.html": "/cindywongdev.github.io/cindywongdev.github.io/index.html",
+    "main.eeedd469.css.map": "/cindywongdev.github.io/cindywongdev.github.io/static/css/main.eeedd469.css.map",
+    "main.9da356ba.js.map": "/cindywongdev.github.io/cindywongdev.github.io/static/js/main.9da356ba.js.map",
+    "787.cda612ba.chunk.js.map": "/cindywongdev.github.io/cindywongdev.github.io/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeedd469.css",
+    "static/js/main.9da356ba.js"
+  ]
+}
