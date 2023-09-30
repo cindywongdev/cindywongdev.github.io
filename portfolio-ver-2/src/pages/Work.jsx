@@ -1,5 +1,7 @@
+import projects from '../data/projects.json'
+
 const Projects = (props) => {
-    const projects = require('../data/projects.json')
+    // const projects = require('../data/projects.json')
 
     const imageStyling = {
         display: "block",
