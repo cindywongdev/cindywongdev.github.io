@@ -1,4 +1,4 @@
-import Header from "../components/Header"
+import Header from "../components/Header.jsx"
 import { AiOutlineArrowDown } from "react-icons/ai"
 
 const Home = (props) => {
