@@ -1,17 +1,11 @@
-const Nav = (props) => {
-    // inline style for the nav tag
-    const navStyle = {
-        display: "flex",
-        justifyContent: "space-around",
-        borderRadius: "1rem",
-        padding: "8px",
-        width: "90%",
-        margin: "auto"
-    }
+import LogoSection from '../LogoSection/LogoSection.jsx'
+import './Nav.scss'
 
+const Nav = (props) => {
     return (<>
-        <header>
-            <nav style={navStyle}>
+        <header class="header">
+            <LogoSection/>
+            <nav class="nav">
                 <a href="#work">
                     <div>Work</div>
                 </a>

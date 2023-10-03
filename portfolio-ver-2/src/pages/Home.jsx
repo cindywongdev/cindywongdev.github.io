@@ -1,4 +1,4 @@
-import Nav from "../components/Nav.jsx"
+import Nav from "../components/Nav/Nav.jsx"
 import { AiOutlineArrowDown } from "react-icons/ai"
 
 const Home = (props) => {
@@ -9,7 +9,7 @@ const Home = (props) => {
 
     return <main>
             <a id="top"></a>
-            <div class="front-page-div d-flex jc-center ai-center" style={frontPageStyling}>
+            <div class="front-page-div d-flex ai-center" style={frontPageStyling}>
                 <div class="text-center">
                     <h1 class="name-title">Cindy Wong</h1>
                     <h2 class="job-title">Software Engineer</h2>

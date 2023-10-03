@@ -116,21 +116,6 @@ html {
 
 body {
     @include black-text-white-bg();
-    
-    nav {
-        @include white-text-green-bg();
-
-        a {
-            @include white-link-gray-hover();
-            font-size: 1.2rem;
-        }
-    }
-
-    main {
-        padding: 10px;
-        margin: 10px 0;
-    }
-
     margin: 0px;
 }
 
