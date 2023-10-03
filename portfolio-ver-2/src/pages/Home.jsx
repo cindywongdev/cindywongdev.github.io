@@ -1,4 +1,4 @@
-import Header from "../components/Header.jsx"
+import Nav from "../components/Nav.jsx"
 import { AiOutlineArrowDown } from "react-icons/ai"
 
 const Home = (props) => {
@@ -14,7 +14,7 @@ const Home = (props) => {
                     <h1 class="name-title">Cindy Wong</h1>
                     <h2 class="job-title">Software Engineer</h2>
                     <h3 class="location-title">Brooklyn, NY</h3>
-                    <Header></Header>
+                    <Nav></Nav>
                     <a href="#work"><div class="down-button"><AiOutlineArrowDown/></div></a>
                 </div>
             </div>

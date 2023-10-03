@@ -1,4 +1,4 @@
-const Header = (props) => {
+const Nav = (props) => {
     // inline style for the nav tag
     const navStyle = {
         display: "flex",
@@ -26,4 +26,4 @@ const Header = (props) => {
     </>)
 }
 
-export default Header
+export default Nav
